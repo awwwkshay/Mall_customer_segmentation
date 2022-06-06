@@ -6,8 +6,4 @@ Also performed clustering on the data using multiple columns and did Dimensional
 
 Used the file Mall_Customers.csv for the data.
 
-Used libraries in Python: 
-  Numpy
-  Pandas
-  Matplotlib
-  Scikit-Learn
+Used libraries in Python: Numpy, Pandas, Matplotlib, Scikit-Learn
